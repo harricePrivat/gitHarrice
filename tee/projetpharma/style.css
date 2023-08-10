@@ -1,0 +1,106 @@
+
+/*style fenetre main*/
+
+.MyWindowMain{
+    background-color: #a3e493;
+}
+.buttonLogo{
+   background-color: rgba(255, 255, 255, 0.521);
+}
+.buttonLogo:hover{
+    background-color: rgba(88, 197, 15, 0.438);
+}
+
+
+.buttonFr{
+    background-color: #15b622;
+    color: #036e1a;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.buttonFr:hover{
+    background-color: #08ec1bce;
+    color: #00fac4;
+    font-size: 25px;
+}
+
+.buttonEn{
+    background-color: #15b622;
+    color: #005207;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.buttonEn:hover{
+    background-color: #08ec1bce;
+    color: #00fac4;
+    font-size: 25px;
+}
+
+.buttonMg{
+    background-color: #15b622;
+    color: #005207;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.buttonMg:hover{
+    background-color: #08ec1bce;
+    color: #00fac4;
+    font-size: 25px;
+}
+
+/*-------------------------------------------------------------------------------------*/
+/*Francais*/
+
+.MyWindowFr{
+    background-color: #a3e493;
+}
+.buttonRetour{
+    background-color: crimson;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+.buttonRetour:hover{
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-weight: bold;
+}
+.MyWindowEn{
+    background-color: #a3e493;
+}
+.MyWindowMg{
+    background-color: #a3e493;
+}
+.buttonAdmin{
+    background-color: #15b622;
+    color: #036e1a;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.buttonAdmin:hover{
+    background-color: #08ec1bce;
+    color: #00fac4;
+    font-size: 25px;
+}
+.buttonCli{
+    background-color: #15b622;
+    color: #036e1a;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.buttonCli:hover{
+    background-color: #08ec1bce;
+    color: #00fac4;
+    font-size: 25px;
+}
+.MyWindowLogin{
+    background-color:  #a3e493 ;
+}
